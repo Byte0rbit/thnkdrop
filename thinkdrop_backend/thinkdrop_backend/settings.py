@@ -57,7 +57,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'thinkdrop_db',
         'USER': 'postgres',
-        'PASSWORD': 'onrightpath',  
+        'PASSWORD': '',  
         'HOST': 'localhost',
         'PORT': '5432',
     }
